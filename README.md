@@ -6,11 +6,15 @@
  #### Orangepi Lite 
  #### Orangepi kamera modülü 
  #### SD-CARD
- ### Armbian İşletim Sistemi
+ #### Armbian İşletim Sistemi
  #### Pyhton
  #### OPENCV Kütüphanesi
-
- 
+ ## Projenin Uygulama Aşamaları
+####  Öncelikle SD-CARD ÜZERİNE SDFormatter programı ile format atmak.
+#### Orangepi sitesinden indirdiğimiz Armbian işletim sistemini SD-card'a kurmak için   win32 disk imager programını indirmek ve sd card 'a image yazdırmak
+#### Sd-cart'ı  orangepi lİte'a  takıp kurulumunu başlatmak
+#### Orangepi lİte kamera bağlantısını yapmak
+#### Orangepi lite üzerine pyhton' kurup  open cv kütüphanesini indirdikten sonra  görüntü işleme için yazılım kısmına geçmek
  
  
  
